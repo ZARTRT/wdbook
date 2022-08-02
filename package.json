@@ -1,0 +1,23 @@
+{
+  "name": "wdbook",
+  "version": "1.0.0",
+  "description": "Automated build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZARTRT/wdbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZARTRT/wdbook/issues"
+  },
+  "homepage": "https://github.com/ZARTRT/wdbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
